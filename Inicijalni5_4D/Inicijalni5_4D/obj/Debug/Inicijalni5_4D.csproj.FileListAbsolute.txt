@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\bin\Debug\Inicijalni5_4D.exe.config
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\bin\Debug\Inicijalni5_4D.exe
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\bin\Debug\Inicijalni5_4D.pdb
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\obj\Debug\Inicijalni5_4D.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\obj\Debug\Inicijalni5_4D.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\obj\Debug\Inicijalni5_4D.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\obj\Debug\Inicijalni5_4D.exe
+C:\Users\ucenik\Documents\Inicijalni5_4D\Inicijalni5_4D\obj\Debug\Inicijalni5_4D.pdb
